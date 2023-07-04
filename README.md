@@ -5,6 +5,7 @@
 - I'm pretty good at writing Javascript and I am in love with Css. I can write React and create single page applications.
 - I know Redux for state management.
 - 📫 How to reach me: canergulduren@hotmail.com // 05340728757
+- My Linkedin profile: [Caner Güldüren](www.linkedin.com/in/caner-güldüren)
 
 <!---
 CanerGulduren/CanerGulduren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
