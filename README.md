@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @CanerGulduren
-- 👀 I am a junior Front-End Web Developer. I’m interested in coding almost 2 years now. 
-- I'm creating websites with clean and reusable code.
-- I love to learning new things since I was a kid and in coding world, there is always a new things to learn. Thats why I love to be a Front-End Developer.
-- I'm pretty good at writing Javascript and I am in love with Css. I can write React and create single page applications.
-- I know Redux for state management.
-- 📫 How to reach me: canergulduren@hotmail.com // 05340728757
+- Caner Güldüren
+- Front-End Web Developer.
+- 📫 How to reach me: canerguldurenn@gmail.com // 05340728757
 - My Linkedin profile: [Caner Güldüren](www.linkedin.com/in/caner-güldüren)
+- My Personal Portfolio: [canergulduren.com](https://canergulduren.com)
+
+## Skills
+- Over two years of valuable experience in software and web development.
+- Responsive and cross-platform design.
+- HTML5, CSS3.
+- Skilled in front-end development through effective utilization of Bootstrap 5 and Sass(Scss).
+- Demonstrated expertise in JavaScript, including ECMAScript 7, and adept at working with various JavaScript libraries and frameworks such as React, React Native, and Next.js.
+- State managment, Redux, Redux Toolkit.
+- Experienced in the development and consumption of REST APIs, with a strong focus on server-side development utilizing Node.js and Express.js.
+- Adept at TypeScript for improved code maintainability in software development.
+- Competent in working with NoSQL databases, particularly MongoDB.
+- Search Engine Optimization (SEO) knowledge.
+- Excellent written and verbal communication skills.
+
 
 <!---
 CanerGulduren/CanerGulduren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
