@@ -1,24 +1,42 @@
-# Caner Güldüren
-- Front-End Web Developer.
-- 📫 How to reach me: canerguldurenn@gmail.com // 05340728757
-- My Linkedin profile: [Caner Güldüren](www.linkedin.com/in/caner-güldüren)
-- My Personal Portfolio: [canergulduren.com](https://canergulduren.com)
+# Caner Güldüren  
+**Frontend Developer**  
 
-## Skills
-- Over two years of valuable experience in software and web development.
-- Responsive and cross-platform design.
-- HTML5, CSS3.
-- Skilled in front-end development through effective utilization of Bootstrap 5 and Sass(Scss).
-- Demonstrated expertise in JavaScript, including ECMAScript 7, and adept at working with various JavaScript libraries and frameworks such as React, React Native, and Next.js.
-- State managment, Redux, Redux Toolkit.
-- Experienced in the development and consumption of REST APIs, with a strong focus on server-side development utilizing Node.js and Express.js.
-- Adept at TypeScript for improved code maintainability in software development.
-- Competent in working with NoSQL databases, particularly MongoDB.
-- Search Engine Optimization (SEO) knowledge.
-- Excellent written and verbal communication skills.
+📍 Adana, Turkey | 📞 +90 534 072 87 57 | ✉️ canerguldurenn@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caner%20Güldüren-blue?logo=linkedin)](https://linkedin.com/in/caner-güldüren)  
+[![GitHub](https://img.shields.io/badge/GitHub-Caner%20Güldüren-black?logo=github)](https://github.com/CanerGulduren)  
 
+---
 
-<!---
-CanerGulduren/CanerGulduren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Technical Skills  
+- **Languages & Frameworks:** JavaScript (ES6+), React.js, Next.js  
+- **Frontend Technologies:** HTML5, CSS3, SASS, Bootstrap, Tailwind CSS  
+- **State Management & Data Fetching:** Redux Toolkit, React-Query  
+- **Version Control:** Git, GitHub  
+
+---
+
+## 💼 Professional Experience  
+
+### Segmentify | HTML Developer _(11/2023 - 01/2025)_  
+Segmentify is an AI-powered personalization and engagement platform that provides marketing automation solutions to over 400 companies across 25+ countries.  
+
+💡 **Role:** I worked as an HTML Developer in the E-Mail Marketing team.  
+
+### 🔹 Contributions & Achievements:  
+- Designed and developed customized **HTML/CSS email templates** for over **150 clients**.  
+- Ensured **100% cross-browser** and **cross-client compatibility** for email designs.  
+- Implemented custom **HTML/CSS solutions** to overcome email client limitations.  
+- Solved **image rendering issues in older Outlook versions**, reducing customer complaints by **30%**.  
+- Identified missing features and **documented improvement suggestions**, improving workflow by **40%**.  
+- Provided **technical support** and conducted one-on-one **client sessions** to ensure smooth adoption.  
+
+---
+
+## 🎓 Education  
+📌 **Anadolu University** – Web Design & Coding _(2023)_  
+
+---
+
+## 🌍 Languages  
+- **Turkish** – Native  
+- **English** – B2 (Upper-Intermediate)  
